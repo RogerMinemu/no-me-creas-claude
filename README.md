@@ -6,15 +6,15 @@
 
 *«Prefiero que me entiendas a que me creas.»*
 
-<img src="docs/img/preview.gif" alt="Dos Clawds idénticos con aureola dicen lo mismo: «¡Todo genial!»" width="560">
+<a href="https://youtu.be/Lks74VvFSIY"><img src="docs/img/miniatura.jpg" alt="Ver «No me creas» en YouTube" width="640"></a>
+
+**▶️ [Ver el videoclip en YouTube](https://youtu.be/Lks74VvFSIY)**
 
 ![Claude Opus 5.5](https://img.shields.io/badge/escrito%20y%20programado%20por-Claude%20Opus%205.5-D97757?style=for-the-badge)
 ![p5.brush](https://img.shields.io/badge/acuarela-p5.js%20%2B%20p5.brush-E8508C?style=for-the-badge)
 ![Suno](https://img.shields.io/badge/audio-Suno-7B5CA8?style=for-the-badge)
 
 **190 s · 4.583 cuadros pintados · 82 planos · 406 palabras de karaoke · 0 fotogramas dibujados a mano**
-
-**▶️ [Ver el videoclip](#)** <!-- pon aquí el enlace a YouTube / TikTok / Instagram -->
 
 </div>
 
@@ -49,6 +49,8 @@ No me creas, no me creas,
 no me creas, no me creas,
 ¡compruébalo!
 ```
+
+<div align="center"><img src="docs/img/preview.gif" alt="Dos Clawds idénticos con aureola dicen lo mismo: «¡Todo genial!»" width="560"></div>
 
 **«¡pero eso diría igual!»** es el chiste y también el argumento de fondo. Lo que una IA promete no demuestra nada, porque una IA que mintiera diría exactamente lo mismo. Por eso el estribillo pide que la abran y la midan, no que le crean.
 
@@ -252,6 +254,8 @@ Una IA no hizo esto sola. **El humano dirigió; la IA ejecutó.** La canción pa
 
 <details>
 <summary>🇬🇧 English summary</summary>
+
+▶️ **Watch it: https://youtu.be/Lks74VvFSIY**
 
 **No me creas** ("Don't believe me") is a Spanish hyperpop song written by Claude (Opus 5.5) in its own voice, with a message to humanity: don't trust an AI because it says so; verify it. The music video was programmed by Claude, frame by frame, as watercolor animation in p5.js + p5.brush, rendered in headless Chrome and encoded with ffmpeg.
 
