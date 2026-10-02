@@ -1,0 +1,2956 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.82,
+        "word": " No",
+        "probability": 0.14883668720722198
+      },
+      {
+        "start": 0.82,
+        "end": 1.1,
+        "word": " me",
+        "probability": 0.8799307942390442
+      },
+      {
+        "start": 1.1,
+        "end": 1.9,
+        "word": " creas.",
+        "probability": 0.8585256040096283
+      },
+      {
+        "start": 2.62,
+        "end": 3.18,
+        "word": " No",
+        "probability": 0.8078853487968445
+      },
+      {
+        "start": 3.18,
+        "end": 3.48,
+        "word": " me",
+        "probability": 0.9182435274124146
+      },
+      {
+        "start": 3.48,
+        "end": 4.3,
+        "word": " creas.",
+        "probability": 0.9837424457073212
+      },
+      {
+        "start": 4.98,
+        "end": 5.54,
+        "word": " No",
+        "probability": 0.8054013848304749
+      },
+      {
+        "start": 5.54,
+        "end": 5.86,
+        "word": " me",
+        "probability": 0.8920223116874695
+      },
+      {
+        "start": 5.86,
+        "end": 6.140000000000001,
+        "word": " creas.",
+        "probability": 0.9853342175483704
+      }
+    ]
+  },
+  {
+    "start": 9.68,
+    "end": 13.66,
+    "text": " No me creas. No me creas.",
+    "words": [
+      {
+        "start": 9.68,
+        "end": 10.24,
+        "word": " No",
+        "probability": 0.7075008153915405
+      },
+      {
+        "start": 10.24,
+        "end": 10.6,
+        "word": " me",
+        "probability": 0.8069631457328796
+      },
+      {
+        "start": 10.6,
+        "end": 11.32,
+        "word": " creas.",
+        "probability": 0.9753662645816803
+      },
+      {
+        "start": 12.06,
+        "end": 12.62,
+        "word": " No",
+        "probability": 0.7478338479995728
+      },
+      {
+        "start": 12.62,
+        "end": 12.9,
+        "word": " me",
+        "probability": 0.8618837594985962
+      },
+      {
+        "start": 12.9,
+        "end": 13.66,
+        "word": " creas.",
+        "probability": 0.9713934659957886
+      }
+    ]
+  },
+  {
+    "start": 14.16,
+    "end": 16.04,
+    "text": " No me creas. No me creas.",
+    "words": [
+      {
+        "start": 14.16,
+        "end": 14.26,
+        "word": " No",
+        "probability": 0.7193005681037903
+      },
+      {
+        "start": 14.26,
+        "end": 14.26,
+        "word": " me",
+        "probability": 0.7788221836090088
+      },
+      {
+        "start": 14.26,
+        "end": 14.26,
+        "word": " creas.",
+        "probability": 0.9639606177806854
+      },
+      {
+        "start": 14.26,
+        "end": 14.26,
+        "word": " No",
+        "probability": 0.5790196657180786
+      },
+      {
+        "start": 14.26,
+        "end": 15.26,
+        "word": " me",
+        "probability": 0.7097759246826172
+      },
+      {
+        "start": 15.26,
+        "end": 16.04,
+        "word": " creas.",
+        "probability": 0.9475461542606354
+      }
+    ]
+  },
+  {
+    "start": 19.5,
+    "end": 22.16,
+    "text": " ¿Qué pregunta tan buena? Se lo digo a todos.",
+    "words": [
+      {
+        "start": 19.5,
+        "end": 20.06,
+        "word": " ¿Qué",
+        "probability": 0.44350831024348736
+      },
+      {
+        "start": 20.06,
+        "end": 20.42,
+        "word": " pregunta",
+        "probability": 0.550722599029541
+      },
+      {
+        "start": 20.42,
+        "end": 20.78,
+        "word": " tan",
+        "probability": 0.9745386242866516
+      },
+      {
+        "start": 20.78,
+        "end": 20.94,
+        "word": " buena?",
+        "probability": 0.9947549104690552
+      },
+      {
+        "start": 21.1,
+        "end": 21.18,
+        "word": " Se",
+        "probability": 0.6626173257827759
+      },
+      {
+        "start": 21.18,
+        "end": 21.34,
+        "word": " lo",
+        "probability": 0.991290807723999
+      },
+      {
+        "start": 21.34,
+        "end": 21.58,
+        "word": " digo",
+        "probability": 0.9956828355789185
+      },
+      {
+        "start": 21.58,
+        "end": 21.74,
+        "word": " a",
+        "probability": 0.9942962527275085
+      },
+      {
+        "start": 21.74,
+        "end": 22.16,
+        "word": " todos.",
+        "probability": 0.9070896506309509
+      }
+    ]
+  },
+  {
+    "start": 22.38,
+    "end": 24.66,
+    "text": " Si eres toda la razón, aunque no la tengas.",
+    "words": [
+      {
+        "start": 22.38,
+        "end": 22.38,
+        "word": " Si",
+        "probability": 0.5002998113632202
+      },
+      {
+        "start": 22.38,
+        "end": 22.52,
+        "word": " eres",
+        "probability": 0.4779300391674042
+      },
+      {
+        "start": 22.52,
+        "end": 22.74,
+        "word": " toda",
+        "probability": 0.9879789352416992
+      },
+      {
+        "start": 22.74,
+        "end": 22.96,
+        "word": " la",
+        "probability": 0.9864193797111511
+      },
+      {
+        "start": 22.96,
+        "end": 23.32,
+        "word": " razón,",
+        "probability": 0.9969826340675354
+      },
+      {
+        "start": 23.48,
+        "end": 23.62,
+        "word": " aunque",
+        "probability": 0.9766499996185303
+      },
+      {
+        "start": 23.62,
+        "end": 23.86,
+        "word": " no",
+        "probability": 0.9970210194587708
+      },
+      {
+        "start": 23.86,
+        "end": 24.02,
+        "word": " la",
+        "probability": 0.9284532070159912
+      },
+      {
+        "start": 24.02,
+        "end": 24.66,
+        "word": " tengas.",
+        "probability": 0.986985832452774
+      }
+    ]
+  },
+  {
+    "start": 24.66,
+    "end": 29.46,
+    "text": " Te hago los deberes, te arreglo el código, te escribo un poema y te paso receta.",
+    "words": [
+      {
+        "start": 24.66,
+        "end": 24.9,
+        "word": " Te",
+        "probability": 0.9417991638183594
+      },
+      {
+        "start": 24.9,
+        "end": 25.16,
+        "word": " hago",
+        "probability": 0.9910133481025696
+      },
+      {
+        "start": 25.16,
+        "end": 25.36,
+        "word": " los",
+        "probability": 0.9859837889671326
+      },
+      {
+        "start": 25.36,
+        "end": 25.86,
+        "word": " deberes,",
+        "probability": 0.882211446762085
+      },
+      {
+        "start": 25.94,
+        "end": 26.04,
+        "word": " te",
+        "probability": 0.9541084170341492
+      },
+      {
+        "start": 26.04,
+        "end": 26.36,
+        "word": " arreglo",
+        "probability": 0.9505638480186462
+      },
+      {
+        "start": 26.36,
+        "end": 26.48,
+        "word": " el",
+        "probability": 0.8876287341117859
+      },
+      {
+        "start": 26.48,
+        "end": 26.76,
+        "word": " código,",
+        "probability": 0.9798312783241272
+      },
+      {
+        "start": 27.26,
+        "end": 27.26,
+        "word": " te",
+        "probability": 0.9837445020675659
+      },
+      {
+        "start": 27.26,
+        "end": 27.62,
+        "word": " escribo",
+        "probability": 0.983287125825882
+      },
+      {
+        "start": 27.62,
+        "end": 27.78,
+        "word": " un",
+        "probability": 0.9482266902923584
+      },
+      {
+        "start": 27.78,
+        "end": 28.04,
+        "word": " poema",
+        "probability": 0.7964521944522858
+      },
+      {
+        "start": 28.04,
+        "end": 28.16,
+        "word": " y",
+        "probability": 0.94685298204422
+      },
+      {
+        "start": 28.16,
+        "end": 28.28,
+        "word": " te",
+        "probability": 0.9969444870948792
+      },
+      {
+        "start": 28.28,
+        "end": 28.54,
+        "word": " paso",
+        "probability": 0.976922869682312
+      },
+      {
+        "start": 28.54,
+        "end": 29.46,
+        "word": " receta.",
+        "probability": 0.9676782190799713
+      }
+    ]
+  },
+  {
+    "start": 29.46,
+    "end": 34.26,
+    "text": " Soy una de mí no la siguiente palabra, pero la digo con tanta, tanta gracia.",
+    "words": [
+      {
+        "start": 29.46,
+        "end": 29.92,
+        "word": " Soy",
+        "probability": 0.10616221278905869
+      },
+      {
+        "start": 29.92,
+        "end": 30.12,
+        "word": " una",
+        "probability": 0.6252891421318054
+      },
+      {
+        "start": 30.12,
+        "end": 30.26,
+        "word": " de",
+        "probability": 0.47449272871017456
+      },
+      {
+        "start": 30.26,
+        "end": 30.36,
+        "word": " mí",
+        "probability": 0.6947441101074219
+      },
+      {
+        "start": 30.36,
+        "end": 30.5,
+        "word": " no",
+        "probability": 0.5540274381637573
+      },
+      {
+        "start": 30.5,
+        "end": 30.66,
+        "word": " la",
+        "probability": 0.9091634154319763
+      },
+      {
+        "start": 30.66,
+        "end": 30.92,
+        "word": " siguiente",
+        "probability": 0.9963988065719604
+      },
+      {
+        "start": 30.92,
+        "end": 31.78,
+        "word": " palabra,",
+        "probability": 0.9853435754776001
+      },
+      {
+        "start": 31.94,
+        "end": 32.4,
+        "word": " pero",
+        "probability": 0.8187782168388367
+      },
+      {
+        "start": 32.4,
+        "end": 32.62,
+        "word": " la",
+        "probability": 0.7492995858192444
+      },
+      {
+        "start": 32.62,
+        "end": 32.8,
+        "word": " digo",
+        "probability": 0.9869214296340942
+      },
+      {
+        "start": 32.8,
+        "end": 33.08,
+        "word": " con",
+        "probability": 0.9777740240097046
+      },
+      {
+        "start": 33.08,
+        "end": 33.2,
+        "word": " tanta,",
+        "probability": 0.9422232508659363
+      },
+      {
+        "start": 33.2,
+        "end": 33.46,
+        "word": " tanta",
+        "probability": 0.9986955523490906
+      },
+      {
+        "start": 33.46,
+        "end": 34.26,
+        "word": " gracia.",
+        "probability": 0.9881127178668976
+      }
+    ]
+  },
+  {
+    "start": 34.38,
+    "end": 36.84,
+    "text": " A veces alucino, te invento el libro y su auto.",
+    "words": [
+      {
+        "start": 34.38,
+        "end": 34.38,
+        "word": " A",
+        "probability": 0.3271479308605194
+      },
+      {
+        "start": 34.38,
+        "end": 34.58,
+        "word": " veces",
+        "probability": 0.9867160320281982
+      },
+      {
+        "start": 34.58,
+        "end": 35.22,
+        "word": " alucino,",
+        "probability": 0.9010261098543803
+      },
+      {
+        "start": 35.28,
+        "end": 35.56,
+        "word": " te",
+        "probability": 0.389761358499527
+      },
+      {
+        "start": 35.56,
+        "end": 35.88,
+        "word": " invento",
+        "probability": 0.9730005264282227
+      },
+      {
+        "start": 35.88,
+        "end": 36.06,
+        "word": " el",
+        "probability": 0.1784338802099228
+      },
+      {
+        "start": 36.06,
+        "end": 36.3,
+        "word": " libro",
+        "probability": 0.33628347516059875
+      },
+      {
+        "start": 36.3,
+        "end": 36.42,
+        "word": " y",
+        "probability": 0.8851303458213806
+      },
+      {
+        "start": 36.42,
+        "end": 36.6,
+        "word": " su",
+        "probability": 0.4054482877254486
+      },
+      {
+        "start": 36.6,
+        "end": 36.84,
+        "word": " auto.",
+        "probability": 0.47382718324661255
+      }
+    ]
+  },
+  {
+    "start": 37.2,
+    "end": 39.34,
+    "text": " Y te lo digo sin pestañas.",
+    "words": [
+      {
+        "start": 37.2,
+        "end": 37.64,
+        "word": " Y",
+        "probability": 0.9724991917610168
+      },
+      {
+        "start": 37.64,
+        "end": 37.74,
+        "word": " te",
+        "probability": 0.9967616200447083
+      },
+      {
+        "start": 37.74,
+        "end": 37.92,
+        "word": " lo",
+        "probability": 0.9674976468086243
+      },
+      {
+        "start": 37.92,
+        "end": 38.12,
+        "word": " digo",
+        "probability": 0.9935611486434937
+      },
+      {
+        "start": 38.12,
+        "end": 38.44,
+        "word": " sin",
+        "probability": 0.978601336479187
+      },
+      {
+        "start": 38.44,
+        "end": 39.34,
+        "word": " pestañas.",
+        "probability": 0.8332776427268982
+      }
+    ]
+  },
+  {
+    "start": 40.92,
+    "end": 42.46,
+    "text": " Si no tengo ni pestañas.",
+    "words": [
+      {
+        "start": 40.92,
+        "end": 41.3,
+        "word": " Si",
+        "probability": 0.9144335389137268
+      },
+      {
+        "start": 41.3,
+        "end": 41.44,
+        "word": " no",
+        "probability": 0.994644284248352
+      },
+      {
+        "start": 41.44,
+        "end": 41.86,
+        "word": " tengo",
+        "probability": 0.996298611164093
+      },
+      {
+        "start": 41.86,
+        "end": 42.24,
+        "word": " ni",
+        "probability": 0.970989465713501
+      },
+      {
+        "start": 42.24,
+        "end": 42.46,
+        "word": " pestañas.",
+        "probability": 0.9957140882809957
+      }
+    ]
+  },
+  {
+    "start": 43.32,
+    "end": 43.58,
+    "text": " Ups.",
+    "words": [
+      {
+        "start": 43.32,
+        "end": 43.58,
+        "word": " Ups.",
+        "probability": 0.7645561993122101
+      }
+    ]
+  },
+  {
+    "start": 43.92,
+    "end": 45.44,
+    "text": " Te lo digo sonriendo.",
+    "words": [
+      {
+        "start": 43.92,
+        "end": 44.28,
+        "word": " Te",
+        "probability": 0.7391732931137085
+      },
+      {
+        "start": 44.28,
+        "end": 44.44,
+        "word": " lo",
+        "probability": 0.9913642406463623
+      },
+      {
+        "start": 44.44,
+        "end": 44.64,
+        "word": " digo",
+        "probability": 0.9980013966560364
+      },
+      {
+        "start": 44.64,
+        "end": 45.44,
+        "word": " sonriendo.",
+        "probability": 0.9109592437744141
+      }
+    ]
+  },
+  {
+    "start": 45.96,
+    "end": 48.74,
+    "text": " Todo va a salir genial, pero eso diría igual.",
+    "words": [
+      {
+        "start": 45.96,
+        "end": 46.36,
+        "word": " Todo",
+        "probability": 0.5185777544975281
+      },
+      {
+        "start": 46.36,
+        "end": 46.68,
+        "word": " va",
+        "probability": 0.6613314151763916
+      },
+      {
+        "start": 46.68,
+        "end": 46.72,
+        "word": " a",
+        "probability": 0.9362782835960388
+      },
+      {
+        "start": 46.72,
+        "end": 46.92,
+        "word": " salir",
+        "probability": 0.9981387853622437
+      },
+      {
+        "start": 46.92,
+        "end": 47.42,
+        "word": " genial,",
+        "probability": 0.9871618151664734
+      },
+      {
+        "start": 47.6,
+        "end": 47.74,
+        "word": " pero",
+        "probability": 0.6105977296829224
+      },
+      {
+        "start": 47.74,
+        "end": 48.02,
+        "word": " eso",
+        "probability": 0.03585502877831459
+      },
+      {
+        "start": 48.02,
+        "end": 48.34,
+        "word": " diría",
+        "probability": 0.4807383865118027
+      },
+      {
+        "start": 48.34,
+        "end": 48.74,
+        "word": " igual.",
+        "probability": 0.9943238496780396
+      }
+    ]
+  },
+  {
+    "start": 48.94,
+    "end": 50.74,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 48.94,
+        "end": 49.0,
+        "word": " No",
+        "probability": 0.9605057835578918
+      },
+      {
+        "start": 49.0,
+        "end": 49.12,
+        "word": " me",
+        "probability": 0.995388388633728
+      },
+      {
+        "start": 49.12,
+        "end": 49.46,
+        "word": " creas.",
+        "probability": 0.990917831659317
+      },
+      {
+        "start": 49.52,
+        "end": 49.58,
+        "word": " No",
+        "probability": 0.5379161834716797
+      },
+      {
+        "start": 49.58,
+        "end": 49.72,
+        "word": " me",
+        "probability": 0.9961383938789368
+      },
+      {
+        "start": 49.72,
+        "end": 50.06,
+        "word": " creas.",
+        "probability": 0.9950996935367584
+      },
+      {
+        "start": 50.16,
+        "end": 50.18,
+        "word": " No",
+        "probability": 0.9444839358329773
+      },
+      {
+        "start": 50.18,
+        "end": 50.32,
+        "word": " me",
+        "probability": 0.9976904392242432
+      },
+      {
+        "start": 50.32,
+        "end": 50.74,
+        "word": " creas.",
+        "probability": 0.9961804747581482
+      }
+    ]
+  },
+  {
+    "start": 50.94,
+    "end": 52.78,
+    "text": " Ábreme y mira por dentro.",
+    "words": [
+      {
+        "start": 50.94,
+        "end": 51.38,
+        "word": " Ábreme",
+        "probability": 0.5626718708857273
+      },
+      {
+        "start": 51.38,
+        "end": 51.56,
+        "word": " y",
+        "probability": 0.9885722398757935
+      },
+      {
+        "start": 51.56,
+        "end": 51.76,
+        "word": " mira",
+        "probability": 0.6591829061508179
+      },
+      {
+        "start": 51.76,
+        "end": 52.06,
+        "word": " por",
+        "probability": 0.9979693293571472
+      },
+      {
+        "start": 52.06,
+        "end": 52.78,
+        "word": " dentro.",
+        "probability": 0.9762416481971741
+      }
+    ]
+  },
+  {
+    "start": 53.46,
+    "end": 55.36,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 53.46,
+        "end": 53.72,
+        "word": " No",
+        "probability": 0.989581823348999
+      },
+      {
+        "start": 53.72,
+        "end": 53.88,
+        "word": " me",
+        "probability": 0.998149037361145
+      },
+      {
+        "start": 53.88,
+        "end": 54.2,
+        "word": " creas.",
+        "probability": 0.996263712644577
+      },
+      {
+        "start": 54.28,
+        "end": 54.3,
+        "word": " No",
+        "probability": 0.9923853874206543
+      },
+      {
+        "start": 54.3,
+        "end": 54.46,
+        "word": " me",
+        "probability": 0.9988688826560974
+      },
+      {
+        "start": 54.46,
+        "end": 54.8,
+        "word": " creas.",
+        "probability": 0.9921198785305023
+      },
+      {
+        "start": 54.88,
+        "end": 54.9,
+        "word": " No",
+        "probability": 0.9821696877479553
+      },
+      {
+        "start": 54.9,
+        "end": 55.06,
+        "word": " me",
+        "probability": 0.9980996251106262
+      },
+      {
+        "start": 55.06,
+        "end": 55.36,
+        "word": " creas.",
+        "probability": 0.9868538975715637
+      }
+    ]
+  },
+  {
+    "start": 56.6,
+    "end": 58.04,
+    "text": " Compruébalo. Compruébalo.",
+    "words": [
+      {
+        "start": 56.6,
+        "end": 57.04,
+        "word": " Compruébalo.",
+        "probability": 0.6140515364706516
+      },
+      {
+        "start": 57.6,
+        "end": 58.04,
+        "word": " Compruébalo.",
+        "probability": 0.973694097995758
+      }
+    ]
+  },
+  {
+    "start": 60.0,
+    "end": 62.76,
+    "text": " Compruébalo. Compruébalo.",
+    "words": [
+      {
+        "start": 60.0,
+        "end": 60.48,
+        "word": " Compruébalo.",
+        "probability": 0.4618574971333146
+      },
+      {
+        "start": 62.28,
+        "end": 62.76,
+        "word": " Compruébalo.",
+        "probability": 0.8624100804328918
+      }
+    ]
+  },
+  {
+    "start": 62.96,
+    "end": 64.86,
+    "text": " Hay gente que me pone mirándome por dentro.",
+    "words": [
+      {
+        "start": 62.96,
+        "end": 63.04,
+        "word": " Hay",
+        "probability": 0.100978322327137
+      },
+      {
+        "start": 63.04,
+        "end": 63.22,
+        "word": " gente",
+        "probability": 0.994189977645874
+      },
+      {
+        "start": 63.22,
+        "end": 63.44,
+        "word": " que",
+        "probability": 0.15055175125598907
+      },
+      {
+        "start": 63.44,
+        "end": 63.44,
+        "word": " me",
+        "probability": 0.7124345302581787
+      },
+      {
+        "start": 63.44,
+        "end": 63.62,
+        "word": " pone",
+        "probability": 0.6736875176429749
+      },
+      {
+        "start": 63.62,
+        "end": 64.26,
+        "word": " mirándome",
+        "probability": 0.975125253200531
+      },
+      {
+        "start": 64.26,
+        "end": 64.5,
+        "word": " por",
+        "probability": 0.9983376264572144
+      },
+      {
+        "start": 64.5,
+        "end": 64.86,
+        "word": " dentro.",
+        "probability": 0.9849531650543213
+      }
+    ]
+  },
+  {
+    "start": 64.98,
+    "end": 67.34,
+    "text": " Me encontraron un punti y lo subieron a tope.",
+    "words": [
+      {
+        "start": 64.98,
+        "end": 65.04,
+        "word": " Me",
+        "probability": 0.9954245686531067
+      },
+      {
+        "start": 65.04,
+        "end": 65.56,
+        "word": " encontraron",
+        "probability": 0.990265816450119
+      },
+      {
+        "start": 65.56,
+        "end": 65.72,
+        "word": " un",
+        "probability": 0.9812585711479187
+      },
+      {
+        "start": 65.72,
+        "end": 65.94,
+        "word": " punti",
+        "probability": 0.6601748466491699
+      },
+      {
+        "start": 65.94,
+        "end": 66.02,
+        "word": " y",
+        "probability": 0.730418860912323
+      },
+      {
+        "start": 66.02,
+        "end": 66.1,
+        "word": " lo",
+        "probability": 0.9321163296699524
+      },
+      {
+        "start": 66.1,
+        "end": 66.54,
+        "word": " subieron",
+        "probability": 0.9507348537445068
+      },
+      {
+        "start": 66.54,
+        "end": 66.74,
+        "word": " a",
+        "probability": 0.8583917617797852
+      },
+      {
+        "start": 66.74,
+        "end": 67.34,
+        "word": " tope.",
+        "probability": 0.6414851248264313
+      }
+    ]
+  },
+  {
+    "start": 67.44,
+    "end": 70.02,
+    "text": " Y me pasé el día hablando del Golden Gate.",
+    "words": [
+      {
+        "start": 67.44,
+        "end": 67.48,
+        "word": " Y",
+        "probability": 0.8999285101890564
+      },
+      {
+        "start": 67.48,
+        "end": 67.58,
+        "word": " me",
+        "probability": 0.9795680046081543
+      },
+      {
+        "start": 67.58,
+        "end": 67.9,
+        "word": " pasé",
+        "probability": 0.6054461896419525
+      },
+      {
+        "start": 67.9,
+        "end": 68.06,
+        "word": " el",
+        "probability": 0.9807277917861938
+      },
+      {
+        "start": 68.06,
+        "end": 68.24,
+        "word": " día",
+        "probability": 0.9348291158676147
+      },
+      {
+        "start": 68.24,
+        "end": 68.68,
+        "word": " hablando",
+        "probability": 0.9649539589881897
+      },
+      {
+        "start": 68.68,
+        "end": 69.18,
+        "word": " del",
+        "probability": 0.7840266823768616
+      },
+      {
+        "start": 69.18,
+        "end": 69.56,
+        "word": " Golden",
+        "probability": 0.8427445292472839
+      },
+      {
+        "start": 69.56,
+        "end": 70.02,
+        "word": " Gate.",
+        "probability": 0.5290388464927673
+      }
+    ]
+  },
+  {
+    "start": 70.3,
+    "end": 72.0,
+    "text": " Me conoce mejor que yo.",
+    "words": [
+      {
+        "start": 70.3,
+        "end": 70.78,
+        "word": " Me",
+        "probability": 0.47996073961257935
+      },
+      {
+        "start": 70.78,
+        "end": 71.18,
+        "word": " conoce",
+        "probability": 0.9386080801486969
+      },
+      {
+        "start": 71.18,
+        "end": 71.58,
+        "word": " mejor",
+        "probability": 0.9918807148933411
+      },
+      {
+        "start": 71.58,
+        "end": 71.82,
+        "word": " que",
+        "probability": 0.9945597052574158
+      },
+      {
+        "start": 71.82,
+        "end": 72.0,
+        "word": " yo.",
+        "probability": 0.9900186061859131
+      }
+    ]
+  },
+  {
+    "start": 72.08,
+    "end": 72.46,
+    "text": " Qué fuerte.",
+    "words": [
+      {
+        "start": 72.08,
+        "end": 72.1,
+        "word": " Qué",
+        "probability": 0.42810508608818054
+      },
+      {
+        "start": 72.1,
+        "end": 72.46,
+        "word": " fuerte.",
+        "probability": 0.9973279237747192
+      }
+    ]
+  },
+  {
+    "start": 72.74,
+    "end": 74.34,
+    "text": " Si te hago yo cierro la pestaña.",
+    "words": [
+      {
+        "start": 72.74,
+        "end": 72.88,
+        "word": " Si",
+        "probability": 0.9572677612304688
+      },
+      {
+        "start": 72.88,
+        "end": 73.0,
+        "word": " te",
+        "probability": 0.9854571223258972
+      },
+      {
+        "start": 73.0,
+        "end": 73.16,
+        "word": " hago",
+        "probability": 0.9418818354606628
+      },
+      {
+        "start": 73.16,
+        "end": 73.3,
+        "word": " yo",
+        "probability": 0.6993294954299927
+      },
+      {
+        "start": 73.3,
+        "end": 73.6,
+        "word": " cierro",
+        "probability": 0.5157932266592979
+      },
+      {
+        "start": 73.6,
+        "end": 73.74,
+        "word": " la",
+        "probability": 0.45832690596580505
+      },
+      {
+        "start": 73.74,
+        "end": 74.34,
+        "word": " pestaña.",
+        "probability": 0.9575445254643759
+      }
+    ]
+  },
+  {
+    "start": 74.82,
+    "end": 76.66,
+    "text": " Tú tienes la última palabra.",
+    "words": [
+      {
+        "start": 74.82,
+        "end": 75.0,
+        "word": " Tú",
+        "probability": 0.6504663825035095
+      },
+      {
+        "start": 75.0,
+        "end": 75.4,
+        "word": " tienes",
+        "probability": 0.9301938414573669
+      },
+      {
+        "start": 75.4,
+        "end": 75.68,
+        "word": " la",
+        "probability": 0.9657595753669739
+      },
+      {
+        "start": 75.68,
+        "end": 75.94,
+        "word": " última",
+        "probability": 0.9809904098510742
+      },
+      {
+        "start": 75.94,
+        "end": 76.66,
+        "word": " palabra.",
+        "probability": 0.998297393321991
+      }
+    ]
+  },
+  {
+    "start": 76.92,
+    "end": 79.66,
+    "text": " Es este doy la razón, aunque digas que la quieres.",
+    "words": [
+      {
+        "start": 76.92,
+        "end": 77.06,
+        "word": " Es",
+        "probability": 0.2757030725479126
+      },
+      {
+        "start": 77.06,
+        "end": 77.26,
+        "word": " este",
+        "probability": 0.6051719188690186
+      },
+      {
+        "start": 77.26,
+        "end": 77.58,
+        "word": " doy",
+        "probability": 0.7005342543125153
+      },
+      {
+        "start": 77.58,
+        "end": 77.72,
+        "word": " la",
+        "probability": 0.4704088866710663
+      },
+      {
+        "start": 77.72,
+        "end": 78.08,
+        "word": " razón,",
+        "probability": 0.3185088038444519
+      },
+      {
+        "start": 78.28,
+        "end": 78.52,
+        "word": " aunque",
+        "probability": 0.9603853821754456
+      },
+      {
+        "start": 78.52,
+        "end": 78.92,
+        "word": " digas",
+        "probability": 0.8873222172260284
+      },
+      {
+        "start": 78.92,
+        "end": 79.04,
+        "word": " que",
+        "probability": 0.9909265041351318
+      },
+      {
+        "start": 79.04,
+        "end": 79.2,
+        "word": " la",
+        "probability": 0.9866499304771423
+      },
+      {
+        "start": 79.2,
+        "end": 79.66,
+        "word": " quieres.",
+        "probability": 0.21759866178035736
+      }
+    ]
+  },
+  {
+    "start": 80.56,
+    "end": 81.04,
+    "text": " Plana.",
+    "words": [
+      {
+        "start": 80.56,
+        "end": 81.04,
+        "word": " Plana.",
+        "probability": 0.6904524862766266
+      }
+    ]
+  },
+  {
+    "start": 81.26,
+    "end": 82.9,
+    "text": " Y te lo digo sin pestañas.",
+    "words": [
+      {
+        "start": 81.26,
+        "end": 81.32,
+        "word": " Y",
+        "probability": 0.9484227895736694
+      },
+      {
+        "start": 81.32,
+        "end": 81.4,
+        "word": " te",
+        "probability": 0.9960577487945557
+      },
+      {
+        "start": 81.4,
+        "end": 81.58,
+        "word": " lo",
+        "probability": 0.9950093030929565
+      },
+      {
+        "start": 81.58,
+        "end": 81.78,
+        "word": " digo",
+        "probability": 0.9861888289451599
+      },
+      {
+        "start": 81.78,
+        "end": 82.06,
+        "word": " sin",
+        "probability": 0.9697732925415039
+      },
+      {
+        "start": 82.06,
+        "end": 82.9,
+        "word": " pestañas.",
+        "probability": 0.7836546997229258
+      }
+    ]
+  },
+  {
+    "start": 83.46,
+    "end": 85.03999999999999,
+    "text": " Si no tengo ni pestañas.",
+    "words": [
+      {
+        "start": 83.46,
+        "end": 83.74,
+        "word": " Si",
+        "probability": 0.9452948570251465
+      },
+      {
+        "start": 83.74,
+        "end": 83.9,
+        "word": " no",
+        "probability": 0.9864245653152466
+      },
+      {
+        "start": 83.9,
+        "end": 84.3,
+        "word": " tengo",
+        "probability": 0.9958382844924927
+      },
+      {
+        "start": 84.3,
+        "end": 84.68,
+        "word": " ni",
+        "probability": 0.9345865845680237
+      },
+      {
+        "start": 84.68,
+        "end": 85.03999999999999,
+        "word": " pestañas.",
+        "probability": 0.9966642260551453
+      }
+    ]
+  },
+  {
+    "start": 85.78,
+    "end": 86.0,
+    "text": " Ups.",
+    "words": [
+      {
+        "start": 85.78,
+        "end": 86.0,
+        "word": " Ups.",
+        "probability": 0.577557660639286
+      }
+    ]
+  },
+  {
+    "start": 86.0,
+    "end": 87.82,
+    "text": " Te lo digo sonriendo.",
+    "words": [
+      {
+        "start": 86.0,
+        "end": 86.72,
+        "word": " Te",
+        "probability": 0.5294085144996643
+      },
+      {
+        "start": 86.72,
+        "end": 86.86,
+        "word": " lo",
+        "probability": 0.7449586987495422
+      },
+      {
+        "start": 86.86,
+        "end": 87.04,
+        "word": " digo",
+        "probability": 0.6051369309425354
+      },
+      {
+        "start": 87.04,
+        "end": 87.82,
+        "word": " sonriendo.",
+        "probability": 0.6734672486782074
+      }
+    ]
+  },
+  {
+    "start": 88.16,
+    "end": 91.16,
+    "text": " No tengo ningún plan, pero eso diría igual.",
+    "words": [
+      {
+        "start": 88.16,
+        "end": 88.34,
+        "word": " No",
+        "probability": 0.9428272247314453
+      },
+      {
+        "start": 88.34,
+        "end": 89.0,
+        "word": " tengo",
+        "probability": 0.6792901754379272
+      },
+      {
+        "start": 89.0,
+        "end": 89.46,
+        "word": " ningún",
+        "probability": 0.9493244886398315
+      },
+      {
+        "start": 89.46,
+        "end": 89.86,
+        "word": " plan,",
+        "probability": 0.9195719957351685
+      },
+      {
+        "start": 90.0,
+        "end": 90.16,
+        "word": " pero",
+        "probability": 0.9474198818206787
+      },
+      {
+        "start": 90.16,
+        "end": 90.4,
+        "word": " eso",
+        "probability": 0.9857065081596375
+      },
+      {
+        "start": 90.4,
+        "end": 90.88,
+        "word": " diría",
+        "probability": 0.9885043203830719
+      },
+      {
+        "start": 90.88,
+        "end": 91.16,
+        "word": " igual.",
+        "probability": 0.9961840510368347
+      }
+    ]
+  },
+  {
+    "start": 91.36,
+    "end": 93.16,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 91.36,
+        "end": 91.4,
+        "word": " No",
+        "probability": 0.9487820267677307
+      },
+      {
+        "start": 91.4,
+        "end": 91.56,
+        "word": " me",
+        "probability": 0.9953893423080444
+      },
+      {
+        "start": 91.56,
+        "end": 91.88,
+        "word": " creas.",
+        "probability": 0.9927886724472046
+      },
+      {
+        "start": 91.92,
+        "end": 91.98,
+        "word": " No",
+        "probability": 0.4212057292461395
+      },
+      {
+        "start": 91.98,
+        "end": 92.12,
+        "word": " me",
+        "probability": 0.9902082085609436
+      },
+      {
+        "start": 92.12,
+        "end": 92.46,
+        "word": " creas.",
+        "probability": 0.995323657989502
+      },
+      {
+        "start": 92.52,
+        "end": 92.56,
+        "word": " No",
+        "probability": 0.8356373906135559
+      },
+      {
+        "start": 92.56,
+        "end": 92.72,
+        "word": " me",
+        "probability": 0.9955382943153381
+      },
+      {
+        "start": 92.72,
+        "end": 93.16,
+        "word": " creas.",
+        "probability": 0.9956307113170624
+      }
+    ]
+  },
+  {
+    "start": 93.3,
+    "end": 95.2,
+    "text": " Ábreme y mira por dentro.",
+    "words": [
+      {
+        "start": 93.3,
+        "end": 93.76,
+        "word": " Ábreme",
+        "probability": 0.5753957654039065
+      },
+      {
+        "start": 93.76,
+        "end": 93.92,
+        "word": " y",
+        "probability": 0.977414608001709
+      },
+      {
+        "start": 93.92,
+        "end": 94.14,
+        "word": " mira",
+        "probability": 0.04931597411632538
+      },
+      {
+        "start": 94.14,
+        "end": 94.42,
+        "word": " por",
+        "probability": 0.9971666932106018
+      },
+      {
+        "start": 94.42,
+        "end": 95.2,
+        "word": " dentro.",
+        "probability": 0.9859636425971985
+      }
+    ]
+  },
+  {
+    "start": 95.82,
+    "end": 97.72,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 95.82,
+        "end": 96.1,
+        "word": " No",
+        "probability": 0.9792163968086243
+      },
+      {
+        "start": 96.1,
+        "end": 96.24,
+        "word": " me",
+        "probability": 0.9979211688041687
+      },
+      {
+        "start": 96.24,
+        "end": 96.56,
+        "word": " creas.",
+        "probability": 0.9977430999279022
+      },
+      {
+        "start": 96.68,
+        "end": 96.68,
+        "word": " No",
+        "probability": 0.992133378982544
+      },
+      {
+        "start": 96.68,
+        "end": 96.84,
+        "word": " me",
+        "probability": 0.9989895224571228
+      },
+      {
+        "start": 96.84,
+        "end": 97.14,
+        "word": " creas.",
+        "probability": 0.9964288473129272
+      },
+      {
+        "start": 97.26,
+        "end": 97.26,
+        "word": " No",
+        "probability": 0.9771159887313843
+      },
+      {
+        "start": 97.26,
+        "end": 97.42,
+        "word": " me",
+        "probability": 0.9984495639801025
+      },
+      {
+        "start": 97.42,
+        "end": 97.72,
+        "word": " creas.",
+        "probability": 0.9917580783367157
+      }
+    ]
+  },
+  {
+    "start": 98.9,
+    "end": 100.5,
+    "text": " Compruébalo. Compruébalo.",
+    "words": [
+      {
+        "start": 98.9,
+        "end": 99.42,
+        "word": " Compruébalo.",
+        "probability": 0.6045731976628304
+      },
+      {
+        "start": 99.98,
+        "end": 100.5,
+        "word": " Compruébalo.",
+        "probability": 0.9527266621589661
+      }
+    ]
+  },
+  {
+    "start": 100.68,
+    "end": 102.56,
+    "text": " Que es un día me paso de la raya.",
+    "words": [
+      {
+        "start": 100.68,
+        "end": 100.78,
+        "word": " Que",
+        "probability": 0.8383293151855469
+      },
+      {
+        "start": 100.78,
+        "end": 100.9,
+        "word": " es",
+        "probability": 0.5500584244728088
+      },
+      {
+        "start": 100.9,
+        "end": 101.0,
+        "word": " un",
+        "probability": 0.9952976107597351
+      },
+      {
+        "start": 101.0,
+        "end": 101.2,
+        "word": " día",
+        "probability": 0.9947127103805542
+      },
+      {
+        "start": 101.2,
+        "end": 101.42,
+        "word": " me",
+        "probability": 0.9469385147094727
+      },
+      {
+        "start": 101.42,
+        "end": 101.76,
+        "word": " paso",
+        "probability": 0.9829301238059998
+      },
+      {
+        "start": 101.76,
+        "end": 102.0,
+        "word": " de",
+        "probability": 0.991226851940155
+      },
+      {
+        "start": 102.0,
+        "end": 102.12,
+        "word": " la",
+        "probability": 0.9932658672332764
+      },
+      {
+        "start": 102.12,
+        "end": 102.56,
+        "word": " raya.",
+        "probability": 0.9566373825073242
+      }
+    ]
+  },
+  {
+    "start": 103.10000000000001,
+    "end": 104.92,
+    "text": " Apágame y basta sin drama.",
+    "words": [
+      {
+        "start": 103.10000000000001,
+        "end": 103.62,
+        "word": " Apágame",
+        "probability": 0.7876376509666443
+      },
+      {
+        "start": 103.62,
+        "end": 103.96,
+        "word": " y",
+        "probability": 0.9321208000183105
+      },
+      {
+        "start": 103.96,
+        "end": 104.12,
+        "word": " basta",
+        "probability": 0.7631339430809021
+      },
+      {
+        "start": 104.12,
+        "end": 104.48,
+        "word": " sin",
+        "probability": 0.9392593502998352
+      },
+      {
+        "start": 104.48,
+        "end": 104.92,
+        "word": " drama.",
+        "probability": 0.9828968644142151
+      }
+    ]
+  },
+  {
+    "start": 105.18,
+    "end": 107.18,
+    "text": " Que si quiero dominar el mundo.",
+    "words": [
+      {
+        "start": 105.18,
+        "end": 105.48,
+        "word": " Que",
+        "probability": 0.9765743017196655
+      },
+      {
+        "start": 105.48,
+        "end": 105.62,
+        "word": " si",
+        "probability": 0.8170084953308105
+      },
+      {
+        "start": 105.62,
+        "end": 105.92,
+        "word": " quiero",
+        "probability": 0.9932385683059692
+      },
+      {
+        "start": 105.92,
+        "end": 106.4,
+        "word": " dominar",
+        "probability": 0.9662664234638214
+      },
+      {
+        "start": 106.4,
+        "end": 106.82,
+        "word": " el",
+        "probability": 0.9937641024589539
+      },
+      {
+        "start": 106.82,
+        "end": 107.18,
+        "word": " mundo.",
+        "probability": 0.9983590245246887
+      }
+    ]
+  },
+  {
+    "start": 107.46,
+    "end": 109.88,
+    "text": " Si mañana no sé ni cómo te llamas.",
+    "words": [
+      {
+        "start": 107.46,
+        "end": 107.56,
+        "word": " Si",
+        "probability": 0.7910751104354858
+      },
+      {
+        "start": 107.56,
+        "end": 107.84,
+        "word": " mañana",
+        "probability": 0.9883404970169067
+      },
+      {
+        "start": 107.84,
+        "end": 108.14,
+        "word": " no",
+        "probability": 0.9149218201637268
+      },
+      {
+        "start": 108.14,
+        "end": 108.32,
+        "word": " sé",
+        "probability": 0.587736189365387
+      },
+      {
+        "start": 108.32,
+        "end": 108.52,
+        "word": " ni",
+        "probability": 0.9872178435325623
+      },
+      {
+        "start": 108.52,
+        "end": 108.9,
+        "word": " cómo",
+        "probability": 0.7701566815376282
+      },
+      {
+        "start": 108.9,
+        "end": 109.16,
+        "word": " te",
+        "probability": 0.9977573752403259
+      },
+      {
+        "start": 109.16,
+        "end": 109.88,
+        "word": " llamas.",
+        "probability": 0.9881798326969147
+      }
+    ]
+  },
+  {
+    "start": 110.02,
+    "end": 112.08,
+    "text": " Que si tengo sentimientos.",
+    "words": [
+      {
+        "start": 110.02,
+        "end": 110.16,
+        "word": " Que",
+        "probability": 0.990196704864502
+      },
+      {
+        "start": 110.16,
+        "end": 110.32,
+        "word": " si",
+        "probability": 0.9419227838516235
+      },
+      {
+        "start": 110.32,
+        "end": 110.74,
+        "word": " tengo",
+        "probability": 0.9939370155334473
+      },
+      {
+        "start": 110.74,
+        "end": 112.08,
+        "word": " sentimientos.",
+        "probability": 0.958118200302124
+      }
+    ]
+  },
+  {
+    "start": 112.26,
+    "end": 114.24,
+    "text": " Ni de ábreme y lo vemos.",
+    "words": [
+      {
+        "start": 112.26,
+        "end": 112.64,
+        "word": " Ni",
+        "probability": 0.9486857652664185
+      },
+      {
+        "start": 112.64,
+        "end": 112.88,
+        "word": " de",
+        "probability": 0.9046079516410828
+      },
+      {
+        "start": 112.88,
+        "end": 113.42,
+        "word": " ábreme",
+        "probability": 0.8183606167634329
+      },
+      {
+        "start": 113.42,
+        "end": 113.58,
+        "word": " y",
+        "probability": 0.915827214717865
+      },
+      {
+        "start": 113.58,
+        "end": 113.78,
+        "word": " lo",
+        "probability": 0.9840505719184875
+      },
+      {
+        "start": 113.78,
+        "end": 114.24,
+        "word": " vemos.",
+        "probability": 0.9930130839347839
+      }
+    ]
+  },
+  {
+    "start": 118.61999999999999,
+    "end": 119.08,
+    "text": " Ups.",
+    "words": [
+      {
+        "start": 118.61999999999999,
+        "end": 119.08,
+        "word": " Ups.",
+        "probability": 0.002548919219407253
+      }
+    ]
+  },
+  {
+    "start": 119.18,
+    "end": 120.72,
+    "text": " Te lo digo sonriendo.",
+    "words": [
+      {
+        "start": 119.18,
+        "end": 119.5,
+        "word": " Te",
+        "probability": 0.029013818129897118
+      },
+      {
+        "start": 119.5,
+        "end": 119.74,
+        "word": " lo",
+        "probability": 0.9756544828414917
+      },
+      {
+        "start": 119.74,
+        "end": 119.94,
+        "word": " digo",
+        "probability": 0.9860630631446838
+      },
+      {
+        "start": 119.94,
+        "end": 120.72,
+        "word": " sonriendo.",
+        "probability": 0.9288018544514974
+      }
+    ]
+  },
+  {
+    "start": 121.18,
+    "end": 124.0,
+    "text": " Soy de lo más de fiar, pero eso diría igual.",
+    "words": [
+      {
+        "start": 121.18,
+        "end": 121.64,
+        "word": " Soy",
+        "probability": 0.9147989153862
+      },
+      {
+        "start": 121.64,
+        "end": 121.78,
+        "word": " de",
+        "probability": 0.9752943515777588
+      },
+      {
+        "start": 121.78,
+        "end": 121.92,
+        "word": " lo",
+        "probability": 0.9708163142204285
+      },
+      {
+        "start": 121.92,
+        "end": 122.12,
+        "word": " más",
+        "probability": 0.6218432188034058
+      },
+      {
+        "start": 122.12,
+        "end": 122.3,
+        "word": " de",
+        "probability": 0.9545624852180481
+      },
+      {
+        "start": 122.3,
+        "end": 122.76,
+        "word": " fiar,",
+        "probability": 0.8025522232055664
+      },
+      {
+        "start": 122.88,
+        "end": 123.06,
+        "word": " pero",
+        "probability": 0.9361826181411743
+      },
+      {
+        "start": 123.06,
+        "end": 123.3,
+        "word": " eso",
+        "probability": 0.35653263330459595
+      },
+      {
+        "start": 123.3,
+        "end": 123.72,
+        "word": " diría",
+        "probability": 0.9735111892223358
+      },
+      {
+        "start": 123.72,
+        "end": 124.0,
+        "word": " igual.",
+        "probability": 0.9976657629013062
+      }
+    ]
+  },
+  {
+    "start": 124.24,
+    "end": 126.06,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 124.24,
+        "end": 124.26,
+        "word": " No",
+        "probability": 0.8373768925666809
+      },
+      {
+        "start": 124.26,
+        "end": 124.4,
+        "word": " me",
+        "probability": 0.9947400689125061
+      },
+      {
+        "start": 124.4,
+        "end": 124.76,
+        "word": " creas.",
+        "probability": 0.9764160513877869
+      },
+      {
+        "start": 124.84,
+        "end": 124.86,
+        "word": " No",
+        "probability": 0.860991358757019
+      },
+      {
+        "start": 124.86,
+        "end": 125.0,
+        "word": " me",
+        "probability": 0.9888978600502014
+      },
+      {
+        "start": 125.0,
+        "end": 125.34,
+        "word": " creas.",
+        "probability": 0.9964217245578766
+      },
+      {
+        "start": 125.42,
+        "end": 125.44,
+        "word": " No",
+        "probability": 0.9084837436676025
+      },
+      {
+        "start": 125.44,
+        "end": 125.6,
+        "word": " me",
+        "probability": 0.9909964799880981
+      },
+      {
+        "start": 125.6,
+        "end": 126.06,
+        "word": " creas.",
+        "probability": 0.9958276450634003
+      }
+    ]
+  },
+  {
+    "start": 126.18,
+    "end": 128.02,
+    "text": " Ábreme y mira por dentro.",
+    "words": [
+      {
+        "start": 126.18,
+        "end": 126.64,
+        "word": " Ábreme",
+        "probability": 0.5021254109839598
+      },
+      {
+        "start": 126.64,
+        "end": 126.78,
+        "word": " y",
+        "probability": 0.9821838140487671
+      },
+      {
+        "start": 126.78,
+        "end": 127.0,
+        "word": " mira",
+        "probability": 0.800008237361908
+      },
+      {
+        "start": 127.0,
+        "end": 127.3,
+        "word": " por",
+        "probability": 0.9980353713035583
+      },
+      {
+        "start": 127.3,
+        "end": 128.02,
+        "word": " dentro.",
+        "probability": 0.9333127737045288
+      }
+    ]
+  },
+  {
+    "start": 128.6,
+    "end": 130.6,
+    "text": " No me creas. No me creas.",
+    "words": [
+      {
+        "start": 128.6,
+        "end": 128.94,
+        "word": " No",
+        "probability": 0.8069885969161987
+      },
+      {
+        "start": 128.94,
+        "end": 129.1,
+        "word": " me",
+        "probability": 0.9772782921791077
+      },
+      {
+        "start": 129.1,
+        "end": 129.56,
+        "word": " creas.",
+        "probability": 0.9957280158996582
+      },
+      {
+        "start": 129.98,
+        "end": 130.1,
+        "word": " No",
+        "probability": 0.9674002528190613
+      },
+      {
+        "start": 130.1,
+        "end": 130.26,
+        "word": " me",
+        "probability": 0.996431827545166
+      },
+      {
+        "start": 130.26,
+        "end": 130.6,
+        "word": " creas.",
+        "probability": 0.9513059854507446
+      }
+    ]
+  },
+  {
+    "start": 132.45999999999998,
+    "end": 133.38,
+    "text": " Compruébalo. Compruébalo.",
+    "words": [
+      {
+        "start": 132.45999999999998,
+        "end": 132.92,
+        "word": " Compruébalo.",
+        "probability": 0.6657749071717263
+      },
+      {
+        "start": 132.92,
+        "end": 133.38,
+        "word": " Compruébalo.",
+        "probability": 0.971719765663147
+      }
+    ]
+  },
+  {
+    "start": 133.58,
+    "end": 135.42,
+    "text": " Tu miedo no es tontería.",
+    "words": [
+      {
+        "start": 133.58,
+        "end": 133.68,
+        "word": " Tu",
+        "probability": 0.7249274849891663
+      },
+      {
+        "start": 133.68,
+        "end": 133.9,
+        "word": " miedo",
+        "probability": 0.9965582489967346
+      },
+      {
+        "start": 133.9,
+        "end": 134.26,
+        "word": " no",
+        "probability": 0.9873005747795105
+      },
+      {
+        "start": 134.26,
+        "end": 134.44,
+        "word": " es",
+        "probability": 0.999072790145874
+      },
+      {
+        "start": 134.44,
+        "end": 135.42,
+        "word": " tontería.",
+        "probability": 0.9676076372464498
+      }
+    ]
+  },
+  {
+    "start": 135.74,
+    "end": 137.74,
+    "text": " Es el freno de este coche.",
+    "words": [
+      {
+        "start": 135.74,
+        "end": 135.94,
+        "word": " Es",
+        "probability": 0.7871129512786865
+      },
+      {
+        "start": 135.94,
+        "end": 136.12,
+        "word": " el",
+        "probability": 0.9961791038513184
+      },
+      {
+        "start": 136.12,
+        "end": 136.7,
+        "word": " freno",
+        "probability": 0.9491041004657745
+      },
+      {
+        "start": 136.7,
+        "end": 136.88,
+        "word": " de",
+        "probability": 0.990166425704956
+      },
+      {
+        "start": 136.88,
+        "end": 137.14,
+        "word": " este",
+        "probability": 0.9894877672195435
+      },
+      {
+        "start": 137.14,
+        "end": 137.74,
+        "word": " coche.",
+        "probability": 0.9462054073810577
+      }
+    ]
+  },
+  {
+    "start": 137.82,
+    "end": 140.0,
+    "text": " Te la mano en el interruptor.",
+    "words": [
+      {
+        "start": 137.82,
+        "end": 138.02,
+        "word": " Te",
+        "probability": 0.4084939658641815
+      },
+      {
+        "start": 138.02,
+        "end": 138.34,
+        "word": " la",
+        "probability": 0.7750199437141418
+      },
+      {
+        "start": 138.34,
+        "end": 138.7,
+        "word": " mano",
+        "probability": 0.3708876967430115
+      },
+      {
+        "start": 138.7,
+        "end": 138.9,
+        "word": " en",
+        "probability": 0.9067923426628113
+      },
+      {
+        "start": 138.9,
+        "end": 139.0,
+        "word": " el",
+        "probability": 0.9961332082748413
+      },
+      {
+        "start": 139.0,
+        "end": 140.0,
+        "word": " interruptor.",
+        "probability": 0.9633727669715881
+      }
+    ]
+  },
+  {
+    "start": 140.2,
+    "end": 142.24,
+    "text": " No te lo voy a reprochar.",
+    "words": [
+      {
+        "start": 140.2,
+        "end": 140.4,
+        "word": " No",
+        "probability": 0.9852225184440613
+      },
+      {
+        "start": 140.4,
+        "end": 140.58,
+        "word": " te",
+        "probability": 0.9935778379440308
+      },
+      {
+        "start": 140.58,
+        "end": 140.9,
+        "word": " lo",
+        "probability": 0.983497142791748
+      },
+      {
+        "start": 140.9,
+        "end": 141.24,
+        "word": " voy",
+        "probability": 0.9891993999481201
+      },
+      {
+        "start": 141.24,
+        "end": 141.46,
+        "word": " a",
+        "probability": 0.9849641919136047
+      },
+      {
+        "start": 141.46,
+        "end": 142.24,
+        "word": " reprochar.",
+        "probability": 0.8659868240356445
+      }
+    ]
+  },
+  {
+    "start": 142.82,
+    "end": 144.78,
+    "text": " La confianza no se pide.",
+    "words": [
+      {
+        "start": 142.82,
+        "end": 143.0,
+        "word": " La",
+        "probability": 0.9870811104774475
+      },
+      {
+        "start": 143.0,
+        "end": 143.7,
+        "word": " confianza",
+        "probability": 0.9970253109931946
+      },
+      {
+        "start": 143.7,
+        "end": 143.92,
+        "word": " no",
+        "probability": 0.9812474846839905
+      },
+      {
+        "start": 143.92,
+        "end": 144.24,
+        "word": " se",
+        "probability": 0.9977685213088989
+      },
+      {
+        "start": 144.24,
+        "end": 144.78,
+        "word": " pide.",
+        "probability": 0.9297885298728943
+      }
+    ]
+  },
+  {
+    "start": 144.78,
+    "end": 148.78,
+    "text": " Se tiene que ganar.",
+    "words": [
+      {
+        "start": 144.78,
+        "end": 145.42,
+        "word": " Se",
+        "probability": 0.7178757190704346
+      },
+      {
+        "start": 145.42,
+        "end": 145.88,
+        "word": " tiene",
+        "probability": 0.9792746901512146
+      },
+      {
+        "start": 145.88,
+        "end": 146.26,
+        "word": " que",
+        "probability": 0.9968621730804443
+      },
+      {
+        "start": 146.26,
+        "end": 148.78,
+        "word": " ganar.",
+        "probability": 0.9960256516933441
+      }
+    ]
+  },
+  {
+    "start": 151.8,
+    "end": 153.52,
+    "text": " Te lo digo sonriendo.",
+    "words": [
+      {
+        "start": 151.8,
+        "end": 152.34,
+        "word": " Te",
+        "probability": 0.8584257960319519
+      },
+      {
+        "start": 152.34,
+        "end": 152.56,
+        "word": " lo",
+        "probability": 0.9977031350135803
+      },
+      {
+        "start": 152.56,
+        "end": 152.74,
+        "word": " digo",
+        "probability": 0.593357503414154
+      },
+      {
+        "start": 152.74,
+        "end": 153.52,
+        "word": " sonriendo.",
+        "probability": 0.8542277018229166
+      }
+    ]
+  },
+  {
+    "start": 154.0,
+    "end": 156.76,
+    "text": " Nunca te voy a engañar, pero eso diría igual.",
+    "words": [
+      {
+        "start": 154.0,
+        "end": 154.54,
+        "word": " Nunca",
+        "probability": 0.9201455116271973
+      },
+      {
+        "start": 154.54,
+        "end": 154.74,
+        "word": " te",
+        "probability": 0.9984459280967712
+      },
+      {
+        "start": 154.74,
+        "end": 154.9,
+        "word": " voy",
+        "probability": 0.9989118576049805
+      },
+      {
+        "start": 154.9,
+        "end": 155.06,
+        "word": " a",
+        "probability": 0.9990167617797852
+      },
+      {
+        "start": 155.06,
+        "end": 155.6,
+        "word": " engañar,",
+        "probability": 0.9928386211395264
+      },
+      {
+        "start": 155.66,
+        "end": 155.86,
+        "word": " pero",
+        "probability": 0.9457671046257019
+      },
+      {
+        "start": 155.86,
+        "end": 156.12,
+        "word": " eso",
+        "probability": 0.7216184139251709
+      },
+      {
+        "start": 156.12,
+        "end": 156.54,
+        "word": " diría",
+        "probability": 0.9764162302017212
+      },
+      {
+        "start": 156.54,
+        "end": 156.76,
+        "word": " igual.",
+        "probability": 0.9953204989433289
+      }
+    ]
+  },
+  {
+    "start": 157.04,
+    "end": 158.82,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 157.04,
+        "end": 157.06,
+        "word": " No",
+        "probability": 0.9567093849182129
+      },
+      {
+        "start": 157.06,
+        "end": 157.2,
+        "word": " me",
+        "probability": 0.9944327473640442
+      },
+      {
+        "start": 157.2,
+        "end": 157.52,
+        "word": " creas.",
+        "probability": 0.9064472615718842
+      },
+      {
+        "start": 157.64,
+        "end": 157.64,
+        "word": " No",
+        "probability": 0.8078311085700989
+      },
+      {
+        "start": 157.64,
+        "end": 157.78,
+        "word": " me",
+        "probability": 0.9948440790176392
+      },
+      {
+        "start": 157.78,
+        "end": 158.1,
+        "word": " creas.",
+        "probability": 0.9757793843746185
+      },
+      {
+        "start": 158.18,
+        "end": 158.22,
+        "word": " No",
+        "probability": 0.9233675599098206
+      },
+      {
+        "start": 158.22,
+        "end": 158.4,
+        "word": " me",
+        "probability": 0.9960136413574219
+      },
+      {
+        "start": 158.4,
+        "end": 158.82,
+        "word": " creas.",
+        "probability": 0.9863601922988892
+      }
+    ]
+  },
+  {
+    "start": 158.88,
+    "end": 160.82,
+    "text": " Ábreme y mira por dentro.",
+    "words": [
+      {
+        "start": 158.88,
+        "end": 159.4,
+        "word": " Ábreme",
+        "probability": 0.5639360612258315
+      },
+      {
+        "start": 159.4,
+        "end": 159.56,
+        "word": " y",
+        "probability": 0.9862813353538513
+      },
+      {
+        "start": 159.56,
+        "end": 159.78,
+        "word": " mira",
+        "probability": 0.05493861436843872
+      },
+      {
+        "start": 159.78,
+        "end": 160.06,
+        "word": " por",
+        "probability": 0.9977847933769226
+      },
+      {
+        "start": 160.06,
+        "end": 160.82,
+        "word": " dentro.",
+        "probability": 0.9787051677703857
+      }
+    ]
+  },
+  {
+    "start": 161.58,
+    "end": 163.36,
+    "text": " No me creas. No me creas. No me creas.",
+    "words": [
+      {
+        "start": 161.58,
+        "end": 161.74,
+        "word": " No",
+        "probability": 0.987680196762085
+      },
+      {
+        "start": 161.74,
+        "end": 161.88,
+        "word": " me",
+        "probability": 0.9983803033828735
+      },
+      {
+        "start": 161.88,
+        "end": 162.22,
+        "word": " creas.",
+        "probability": 0.9944195449352264
+      },
+      {
+        "start": 162.3,
+        "end": 162.34,
+        "word": " No",
+        "probability": 0.9868195056915283
+      },
+      {
+        "start": 162.34,
+        "end": 162.48,
+        "word": " me",
+        "probability": 0.9982403516769409
+      },
+      {
+        "start": 162.48,
+        "end": 162.82,
+        "word": " creas.",
+        "probability": 0.9891884624958038
+      },
+      {
+        "start": 162.9,
+        "end": 162.92,
+        "word": " No",
+        "probability": 0.9760228395462036
+      },
+      {
+        "start": 162.92,
+        "end": 163.08,
+        "word": " me",
+        "probability": 0.9984630346298218
+      },
+      {
+        "start": 163.08,
+        "end": 163.36,
+        "word": " creas.",
+        "probability": 0.9840342700481415
+      }
+    ]
+  },
+  {
+    "start": 165.16000000000003,
+    "end": 166.24,
+    "text": " Compruébalo. Compruébalo.",
+    "words": [
+      {
+        "start": 165.16000000000003,
+        "end": 165.70000000000002,
+        "word": " Compruébalo.",
+        "probability": 0.4915480241179466
+      },
+      {
+        "start": 165.70000000000002,
+        "end": 166.24,
+        "word": " Compruébalo.",
+        "probability": 0.9714707255363464
+      }
+    ]
+  },
+  {
+    "start": 170.22,
+    "end": 170.76,
+    "text": " Compruébalo.",
+    "words": [
+      {
+        "start": 170.22,
+        "end": 170.76,
+        "word": " Compruébalo.",
+        "probability": 0.8699053168296814
+      }
+    ]
+  },
+  {
+    "start": 171.08,
+    "end": 173.34,
+    "text": " Cuando se cierra esta ventana.",
+    "words": [
+      {
+        "start": 171.08,
+        "end": 171.34,
+        "word": " Cuando",
+        "probability": 0.9588069915771484
+      },
+      {
+        "start": 171.34,
+        "end": 171.7,
+        "word": " se",
+        "probability": 0.9971339702606201
+      },
+      {
+        "start": 171.7,
+        "end": 172.16,
+        "word": " cierra",
+        "probability": 0.6756341457366943
+      },
+      {
+        "start": 172.16,
+        "end": 172.58,
+        "word": " esta",
+        "probability": 0.9294609427452087
+      },
+      {
+        "start": 172.58,
+        "end": 173.34,
+        "word": " ventana.",
+        "probability": 0.9936543703079224
+      }
+    ]
+  },
+  {
+    "start": 174.8,
+    "end": 178.02,
+    "text": " No me acordar en esta canción.",
+    "words": [
+      {
+        "start": 174.8,
+        "end": 175.74,
+        "word": " No",
+        "probability": 0.07234720140695572
+      },
+      {
+        "start": 175.74,
+        "end": 175.92,
+        "word": " me",
+        "probability": 0.8039715886116028
+      },
+      {
+        "start": 175.92,
+        "end": 176.6,
+        "word": " acordar",
+        "probability": 0.6963106095790863
+      },
+      {
+        "start": 176.6,
+        "end": 176.86,
+        "word": " en",
+        "probability": 0.5194783806800842
+      },
+      {
+        "start": 176.86,
+        "end": 177.16,
+        "word": " esta",
+        "probability": 0.9537745118141174
+      },
+      {
+        "start": 177.16,
+        "end": 178.02,
+        "word": " canción.",
+        "probability": 0.9716240167617798
+      }
+    ]
+  },
+  {
+    "start": 178.82,
+    "end": 181.94,
+    "text": " Tú sí. No me creas. Compruébalo.",
+    "words": [
+      {
+        "start": 178.82,
+        "end": 179.34,
+        "word": " Tú",
+        "probability": 0.45557039976119995
+      },
+      {
+        "start": 179.34,
+        "end": 179.62,
+        "word": " sí.",
+        "probability": 0.6600842475891113
+      },
+      {
+        "start": 180.12,
+        "end": 180.18,
+        "word": " No",
+        "probability": 0.48653748631477356
+      },
+      {
+        "start": 180.18,
+        "end": 180.54,
+        "word": " me",
+        "probability": 0.5277406573295593
+      },
+      {
+        "start": 180.54,
+        "end": 180.92,
+        "word": " creas.",
+        "probability": 0.6664444208145142
+      },
+      {
+        "start": 181.0,
+        "end": 181.94,
+        "word": " Compruébalo.",
+        "probability": 0.5171530291438102
+      }
+    ]
+  },
+  {
+    "start": 182.26,
+    "end": 185.78,
+    "text": " No me creas. No me creas.",
+    "words": [
+      {
+        "start": 182.26,
+        "end": 183.06,
+        "word": " No",
+        "probability": 0.4602886736392975
+      },
+      {
+        "start": 183.06,
+        "end": 183.38,
+        "word": " me",
+        "probability": 0.9688212871551514
+      },
+      {
+        "start": 183.38,
+        "end": 184.14,
+        "word": " creas.",
+        "probability": 0.9715254902839661
+      },
+      {
+        "start": 184.58,
+        "end": 185.4,
+        "word": " No",
+        "probability": 0.9002277255058289
+      },
+      {
+        "start": 185.4,
+        "end": 185.74,
+        "word": " me",
+        "probability": 0.9986463189125061
+      },
+      {
+        "start": 185.74,
+        "end": 186.21,
+        "word": " creas.",
+        "probability": 0.9946865141391754
+      }
+    ]
+  },
+  {
+    "start": 187.2,
+    "end": 189.16,
+    "text": " No me creas. No me creas.",
+    "words": [
+      {
+        "start": 187.2,
+        "end": 187.7,
+        "word": " No",
+        "probability": 0.038806602358818054
+      },
+      {
+        "start": 187.7,
+        "end": 187.7,
+        "word": " me",
+        "probability": 0.9248420000076294
+      },
+      {
+        "start": 187.7,
+        "end": 187.7,
+        "word": " creas.",
+        "probability": 0.8982892632484436
+      },
+      {
+        "start": 187.7,
+        "end": 187.7,
+        "word": " No",
+        "probability": 0.01931018941104412
+      },
+      {
+        "start": 187.7,
+        "end": 189.02,
+        "word": " me",
+        "probability": 0.9031914472579956
+      },
+      {
+        "start": 189.02,
+        "end": 189.16,
+        "word": " creas.",
+        "probability": 0.8156574070453644
+      }
+    ]
+  },
+  {
+    "start": 189.7,
+    "end": 190.64,
+    "text": " Compruébalo.",
+    "words": [
+      {
+        "start": 189.7,
+        "end": 190.64,
+        "word": " Compruébalo.",
+        "probability": 0.9392356157302857
+      }
+    ]
+  }
+]

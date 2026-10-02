@@ -1,0 +1,8 @@
+node_modules/
+out/
+# Downloaded by setup.mjs from github.com/JohnHeibel/PDoomVideo (not redistributed here)
+src/core.js
+src/clawd.js
+src/cast.js
+src/props.js
+ANIMATION_GUIDE.md

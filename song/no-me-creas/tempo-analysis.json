@@ -1,0 +1,5 @@
+{
+  "bpm": 101.833,
+  "offset": 0.3262,
+  "method": "Spectral onset flux autocorrelation (101.83 BPM), refined by least-squares fit of 185 low-band (35-120 Hz) kick onsets: half-beat period 0.29460 s. Kick lands on every half beat; phase chosen from the kick-band comb filter."
+}

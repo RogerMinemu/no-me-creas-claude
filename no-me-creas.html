@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>No me creas · Claude</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@700&family=Permanent+Marker&family=Shantell+Sans:wght@800&display=block">
+<style>
+html,body{margin:0;background:#1d1838;color:#fff5e2;font:15px system-ui}main{max-width:1280px;margin:auto;padding:20px}h1{font:700 22px "Fredoka",system-ui;margin:0 0 16px;letter-spacing:.5px}h1 span{color:#f58fb8;font-size:14px;margin-left:10px}#out{width:100%;height:auto;aspect-ratio:16/9;background:#f3ebdc;border-radius:12px}.p5Canvas{display:none!important}.bar{display:flex;gap:12px;align-items:center;margin-top:16px}#scrub{flex:1;accent-color:#f58fb8}#tt{font-variant-numeric:tabular-nums;min-width:150px}button{background:#ffe07a;border:0;border-radius:20px;padding:10px 20px;color:#241b45;cursor:pointer;font-weight:700}audio{width:100%;margin-top:16px}
+</style>
+<script src="song/no-me-creas/timing.js"></script>
+<script src="song/no-me-creas/words.js"></script>
+<script src="node_modules/p5/lib/p5.min.js"></script>
+<script src="node_modules/p5.brush/dist/p5.brush.js"></script>
+</head>
+<body><main>
+<h1>No me creas <span>CLAUDE</span></h1>
+<canvas id="out" width="1920" height="1080"></canvas>
+<div class="bar"><button id="play">Reproducir</button><input id="scrub" type="range" min="0" max="190.92" step="0.0417" value="0"><span id="tt">Preparando…</span></div>
+<audio id="song" controls preload="metadata" src="song/no-me-creas/No%20me%20creas.mp3"></audio>
+</main>
+<script src="src/core.js"></script>
+<script src="src/clawd.js"></script>
+<script src="src/cast.js"></script>
+<script src="src/props.js"></script>
+<script src="src/nmc/kit.js"></script>
+<script src="src/nmc/scenes.js"></script>
+<script src="src/nmc/timeline.js"></script>
+<script src="src/nmc/ch1_intro.js"></script>
+<script src="src/nmc/ch2_verse1.js"></script>
+<script src="src/nmc/ch3_chorus1.js"></script>
+<script src="src/nmc/ch4_verse2.js"></script>
+<script src="src/nmc/ch5_chorus2.js"></script>
+<script src="src/nmc/ch6_verse3.js"></script>
+<script src="src/nmc/ch7_bridge.js"></script>
+<script src="src/nmc/ch8_final.js"></script>
+<script>
+const music=document.getElementById('song'), button=document.getElementById('play');
+button.onclick=()=>music.paused?music.play():music.pause();
+music.onplay=()=>button.textContent='Pausa';music.onpause=()=>button.textContent='Reproducir';
+document.getElementById('scrub').addEventListener('change',e=>music.currentTime=+e.target.value);
+let audioBusy=false;
+async function audioFrame(){if(window.ready&&!music.paused&&!audioBusy){audioBusy=true;try{await window.renderAt(music.currentTime);document.getElementById('scrub').value=music.currentTime;document.getElementById('tt').textContent=music.currentTime.toFixed(2)+' / 190.92 s';}finally{audioBusy=false}}requestAnimationFrame(audioFrame)}
+if(!location.search.includes('render'))requestAnimationFrame(audioFrame);
+</script></body></html>

@@ -1,0 +1,18 @@
+{
+  "name": "no-me-creas",
+  "version": "1.0.0",
+  "description": "Source code of the music video \"No me creas\", written and animated by Claude (Opus 5.5) in watercolor with p5.brush.",
+  "private": true,
+  "scripts": {
+    "setup": "node setup.mjs",
+    "postinstall": "node setup.mjs",
+    "sheet": "node render-song.mjs --sheet=3.6,20,28.8,48,52.4,68.6,90.6,123.5,136.8,150.6,156.6,183.6 --cols=4 --width=480 --out=out/sheet.jpg",
+    "render": "node render-song.mjs",
+    "check": "python tools/check_video.py"
+  },
+  "dependencies": {
+    "p5": "^2.3.3",
+    "p5.brush": "^2.2.3",
+    "puppeteer-core": "^25.11.0"
+  }
+}

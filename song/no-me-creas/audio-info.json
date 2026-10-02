@@ -1,0 +1,7 @@
+{
+  "audio": "song/no-me-creas/No me creas.mp3",
+  "duration": 190.92,
+  "sample_rate": 48000,
+  "channels": 2,
+  "ffmpeg": "ffmpeg"
+}
